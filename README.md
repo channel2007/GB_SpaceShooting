@@ -10,4 +10,4 @@ https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo
 * [GBTD22](http://www.devrs.com/gb/hmgd/gbtd.html)
 
 # 安裝方法
-* 
+* 今天累了，明天再繼續寫。。O
