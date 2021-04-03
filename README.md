@@ -11,4 +11,4 @@ https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo
 
 # 安裝方法
 * 下載完gbdk後請先解壓縮，然後將解壓縮後的GB_SpaceShooting放入gbdk目錄內，如下：
-* ![alt gbdk]("https://github.com/channel2007/GB_SpaceShooting/blob/master/image/h1.jpg?raw=true"gbdk")
+![alt gbdk]("https://raw.githubusercontent.com/channel2007/GB_SpaceShooting/master/image/h1.jpg"gbdk")
