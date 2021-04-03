@@ -10,4 +10,5 @@ https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo
 * [GBTD22](http://www.devrs.com/gb/hmgd/gbtd.html)
 
 # 安裝方法
-* 今天累了，明天再繼續寫。。
+* 下載完gbdk後請先解壓縮，然後將解壓縮後的GB_SpaceShooting放入gbdk目錄內，如下：
+* ![alt gbdk](https://github.com/channel2007/GB_SpaceShooting/blob/master/image/h1.jpg"gbdk")
