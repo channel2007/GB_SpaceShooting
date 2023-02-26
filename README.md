@@ -24,7 +24,7 @@ https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo
 
 # 更新日誌
 * 2023/2/26
-  * 新增RGR射擊遊戲  
+  * 新增RGR射擊遊戲      
 
 # 官方粉絲團
 [無限升級](https://www.facebook.com/unlimited.upgrade/posts/2840132506240869?notif_id=1617421138749926&notif_t=page_post_reaction&ref=notif)
